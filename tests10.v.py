@@ -19,7 +19,7 @@
 #10 Ločmele Līva
 
 #11 Milliņš Māris
-
+(3**2)+2*3-100+(19/2)
 #12 Plonis Gustavs
 
 #13 Strazdiņa Paula Marta
