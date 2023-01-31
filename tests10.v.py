@@ -1,7 +1,7 @@
 #1 Azarēviča Arina
 
 #2 Bāra Antuanete
-
+35+34=69
 #3 Boja Ernests
 
 #4 Donovs Emīls Niks
