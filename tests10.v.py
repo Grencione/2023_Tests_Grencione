@@ -13,6 +13,7 @@
 #7 Kļimova Anna
 
 #8 Kokoreviča Diāna
+(5*2)-(6*7)
 
 #9 Krastiņš Guntis
 
