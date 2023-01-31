@@ -15,7 +15,7 @@
 #8 Kokoreviča Diāna
 
 #9 Krastiņš Guntis
-
+2**5=32
 #10 Ločmele Līva
 
 #11 Milliņš Māris
