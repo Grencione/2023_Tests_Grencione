@@ -3,7 +3,7 @@
 #2 Bāra Antuanete
 
 #3 Boja Ernests
-
+5**2+20+14
 #4 Donovs Emīls Niks
 
 #5 Feldmane Laura
