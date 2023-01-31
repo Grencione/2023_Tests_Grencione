@@ -25,3 +25,4 @@
 #13 Strazdiņa Paula Marta
 
 #14 Vanags Renārs
+13*3
