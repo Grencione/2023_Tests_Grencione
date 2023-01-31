@@ -11,6 +11,7 @@
 #6 Karpoviča Zlata
 (2**2)*2
 #7 Kļimova Anna
+(7*8-(5**3)**4)/2
 
 #8 Kokoreviča Diāna
 
