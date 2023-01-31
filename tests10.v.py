@@ -7,7 +7,7 @@
 #4 Donovs Emīls Niks
 
 #5 Feldmane Laura
-
+2+4
 #6 Karpoviča Zlata
 (2**2)*2
 #7 Kļimova Anna
