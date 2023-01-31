@@ -5,7 +5,7 @@
 #3 Boja Ernests
 
 #4 Donovs Emīls Niks
-
+2**8+5
 #5 Feldmane Laura
 
 #6 Karpoviča Zlata
